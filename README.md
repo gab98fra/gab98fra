@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gab98fra
 - 👀 I’m interested in data science y artificial intelligence.
-- 🌱 I’m currently learning and big data.
+- 🌱 I’m currently learning machine learning and big data.
 - 💞️ I’m looking to collaborate on data science.
 
 
