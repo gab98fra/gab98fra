@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and artificial intelligence.
 - 🌱 I’m currently learning big data and machine learning.
 - 💞️ I’m looking to collaborate on data science.
-- 📫 <a href="mailto:contacto@webfomatica.xyz">Email</a>
+- 📫 <a href="mailto:iam@webfomatica.xyz">Email</a>
 
 <!---
 - 📫 How to reach me ...
