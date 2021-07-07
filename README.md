@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on data science.
 - 📫 <a href="mailto:iam@webfomatica.xyz">Email</a>
 
+<img src="https://webfomatica.xyz/dev/lan/img/git.png" alt="image">
 <!---
 - 📫 How to reach me ...
 gab98fra/gab98fra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
