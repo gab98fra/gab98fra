@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabriel
 - 👀 I’m interested in data science and artificial intelligence.
-- 🌱 I’m currently learning big data and machine learning.
-- 💞️ I’m looking to collaborate on data science.
+- 🌱 Skills: AWS, Python, Data Structures, Microservices, Postgresql, Cloud, Security, API gateways, event-driven architecture.
 - 📫 <a href="mailto:iam@gabrielramos.xyz">Email</a>
 
 <img src="https://desarrollositiosweb.site/wp-content/uploads/2021/07/ima.png" alt="image" height="200px">
